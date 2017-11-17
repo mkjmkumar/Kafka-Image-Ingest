@@ -1,0 +1,13 @@
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/SimpleProducer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/ConnectToCluster.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/consumerToVid.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/IngestionMetaDataProducer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/ByteSerializerAsProducer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/ByteSerializerWithLoop.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/SimpleConsumer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/IngestByteSerializerAsProducer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/RetriveData.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/IngestByteSerializerAsConsumer.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/consumerToVidToHdfs.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/ingestimageobject.java
+/home/victoria/eclipse-workspace/KafkaConsumnerALL/src/main/java/stormkafkahdfs/digitalfileanalytics/CopyfromLocal.java
